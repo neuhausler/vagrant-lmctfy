@@ -1,6 +1,6 @@
 # Vagrant lmctfy
 
-Vagrantfile and setup script.
+[lmctfy](https://github.com/google/lmctfy) Vagrantfile and setup script.
 
 ## Usage
 
@@ -25,3 +25,5 @@ $ sudo lmctfy create test "memory:{limit:100000000}"
 $ sudo lmctfy list containers
 $ sudo lmctfy run test "echo hello world"
 ```
+
+See more in lmctfy [readme](https://github.com/google/lmctfy#readme).
