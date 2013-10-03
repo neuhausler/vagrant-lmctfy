@@ -1,6 +1,6 @@
-# Vagrant lmctfy
+# Vagrant Lmctfy
 
-[lmctfy](https://github.com/google/lmctfy) Vagrantfile and setup script.
+[Lmctfy](https://github.com/google/lmctfy) Vagrantfile and setup script.
 
 ## Usage
 
@@ -26,4 +26,4 @@ $ sudo lmctfy list containers
 $ sudo lmctfy run test "echo hello world"
 ```
 
-See more in lmctfy [readme](https://github.com/google/lmctfy#readme).
+See more in Lmctfy [readme](https://github.com/google/lmctfy#readme).
