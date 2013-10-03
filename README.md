@@ -4,7 +4,7 @@ Vagrantfile and setup script.
 
 ## Usage
 
-``` shell
+```bash
 $ vagrant up
 $ vagrant ssh
 $ sudo lmctfy init "
